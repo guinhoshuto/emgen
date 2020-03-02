@@ -1,0 +1,14 @@
+{
+  "name": "emgen",
+  "version": "1.0.0",
+  "description": "gerador de email marketing",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bin": {
+      "hello": "./bin/index.js"
+  }
+}
